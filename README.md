@@ -1,5 +1,5 @@
-EDS Document
-This project implements EDS project using Google Drive.
+# EDS - Document
+This project implements an Adobe EDS project using Google Drive.
 
 ## Environments
 - Preview: https://main--eds-doc--robertoramos-accenture.aem.page/
